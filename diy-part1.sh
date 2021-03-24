@@ -18,3 +18,6 @@
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
 git clone https://github.com/yichya/luci-app-xray.git package/luci-app-xray
 git clone https://github.com/yichya/openwrt-xray.git package/openwrt-xray
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
+git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
+git clone https://github.com/pymumu/openwrt-smartdns.git package/openwrt-smartdns
